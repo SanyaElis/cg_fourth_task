@@ -40,14 +40,7 @@ public class Matrix4Factories {
         return m;
     }
 
-    public static Matrix4 translation(Vector3 v){
+    public static Matrix4 translation(Vector3 v) {
         return translation(v.getX(), v.getY(), v.getZ());
     }
-
-
-
-
-
-
-
 }

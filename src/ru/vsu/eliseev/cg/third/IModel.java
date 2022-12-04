@@ -1,4 +1,4 @@
-package ru.vsu.eliseev.cg;
+package ru.vsu.eliseev.cg.third;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package ru.vsu.eliseev.cg;
+package ru.vsu.eliseev.cg.third;
 
 import ru.vsu.eliseev.cg.Math.Vector3;
 
